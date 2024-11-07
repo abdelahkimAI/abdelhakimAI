@@ -1,4 +1,4 @@
-# abdelhakimAI
+# abdelhakim
 Hello world, this is my profile
 <h1 align="center">Hi 👋, I'm Abdelhakim Azelag</h1>
 <h3 align="center">A passionate data science student from Morocco</h3>
